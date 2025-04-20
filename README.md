@@ -6,20 +6,11 @@
 
 ## 🛠️ Skills
 
-### **Data Analysis & Visualization**  
-Proficient in **Tableau**, **Power BI**, **Excel**, **Python**, and **R**.
+- **Data Analysis & Visualization**: Tableau, Power BI, Python, R
+- **Business Intelligence**: Interactive dashboards, KPI design
+- **Statistical Analysis**: Data interpretation & prediction
+- **Soft Skills**: Communication, Problem Solving, Teamwork, Adaptability
 
-### **Business Intelligence**  
-Expert in designing interactive dashboards and KPIs to support decision-making.
-
-### **Statistical Analysis**  
-Experience in applying statistical methods for data interpretation and predictions.
-
-### **Soft Skills**  
-- Strong **Communication**: Ability to convey complex data insights in a simple, clear manner.  
-- **Problem Solving**: Critical thinking to identify root causes and solutions.  
-- **Teamwork**: Collaborating effectively with cross-functional teams.  
-- **Adaptability**: Quick learner, embracing new tools and techniques to tackle challenges.
 
 ---
 
