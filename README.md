@@ -1,68 +1,51 @@
-# 👋 Hello! I'm Isha Singh - Master's Student in Business Analytics
+# 👋 I'm Isha Singh - Master's Student in Business Analytics
 
-Welcome to my professional portfolio! I am currently pursuing a **Master’s in Business Analytics** at **Texas A&M University, Commerce**, and I am passionate about transforming data into actionable insights. I focus on acquiring deep expertise in data visualization, statistical analysis, and creating business intelligence reports.
-
----
-
-## 🎓 About Me
-
-I’m a **data enthusiast**, constantly learning and applying new techniques to solve real-world business problems. I am driven by the ability to use **data-driven insights** to help organizations make better, informed decisions. Through academic coursework and hands-on projects, I’ve gained expertise in **data analytics**, **business intelligence tools**, and **statistical analysis**, and I am excited to continue developing my skill set.
+Currently pursuing a **Master’s in Business Analytics** at **Texas A&M University, Commerce**, I’m passionate about using **data** to help organizations make **data-driven decisions**. I'm focused on learning key tools like **Tableau**, **Power BI**, and **Python** to turn raw data into actionable insights.
 
 ---
 
-## 💻 Key Skills
+## 🛠️ Key Skills
 
-- **Data Analysis & Visualization**: Using data to uncover patterns and trends, creating intuitive visualizations.
-- **Business Intelligence**: Designing dashboards and KPIs for better business decision-making.
-- **Statistical Analysis**: Analyzing data to make forecasts, predictions, and derive business insights.
+- **Data Analysis & Visualization**: Creating actionable insights from data with tools like **Tableau** and **Power BI**.
+- **Business Intelligence**: Developing dashboards and reports for data-driven decisions.
+- **Statistical Analysis**: Analyzing data to forecast trends and behaviors.
 
 ---
 
 ## 💻 Skills & Technologies
 
-### Analytical Tools & Software:
-- **Tableau** (Data Visualization)
-- **Power BI** (Business Intelligence & Data Visualization)
-- **Excel** (Data Analysis & Pivot Tables)
-- **Python** (Data Manipulation & Analysis)
-- **R** (Statistical Analysis)
-
-### Analytical Techniques:
-- **Exploratory Data Analysis (EDA)**: Understanding data by exploring its patterns, distributions, and relationships.
-- **Predictive Modeling**: Building models to forecast future trends and behaviors.
-- **Data Cleaning & Transformation**: Preparing raw data for analysis by handling missing values, outliers, and inconsistencies.
+- **Tools**: **Tableau**, **Power BI**, **Excel**, **Python**, **R**
+- **Techniques**: **EDA**, **Predictive Modeling**, **Data Cleaning**
 
 ---
 
 ## 🧠 Soft Skills
 
-- **Communication**: Ability to clearly present data insights and explain complex analysis.
-- **Problem-Solving**: Identifying patterns in data and providing data-driven solutions.
-- **Teamwork**: Collaborating effectively with peers and professors on projects and research work.
-- **Time Management**: Managing multiple projects and deadlines efficiently.
+- **Communication**: Presenting complex data insights in a simple manner.
+- **Problem-Solving**: Uncovering trends and providing data-driven solutions.
+- **Teamwork & Time Management**: Efficient collaboration and managing deadlines.
 
 ---
 
 ## 📊 Key Projects
 
 ### 📊 **Tableau Sales Dashboard**  
-- Created a **sales dashboard** in Tableau to track **total sales**, **quantity sold**, and **profit**, with **year-on-year comparisons**. The dashboard helped identify sales trends and key product categories.
+- Developed a **sales dashboard** in Tableau with KPIs such as **total sales**, **quantity**, and **profit** to track trends and compare year-on-year performance.
 
 ### 📊 **SQL EDA & Reporting**  
-- Performed **Exploratory Data Analysis (EDA)** using SQL and created **customer** and **product reports**. Later visualized the reports in **Power BI**, enabling better insights into customer behavior.
+- Performed **EDA** and generated **customer** and **product reports** using SQL, later visualizing them in **Power BI** for enhanced insights.
 
 ### 📊 **Churn Prediction with Python**  
-- Predicted customer churn using **Python**. Conducted **EDA**, visualized the data, and built a **predictive model** to understand the factors contributing to churn.
+- Used **Python** for churn prediction, including **EDA**, **data visualization**, and building a **predictive model**.
 
 ### 📊 **Employee Exit Analysis Dashboard**  
-- Designed a comprehensive **employee exit dashboard** using **Excel** with KPIs such as **attrition rate**, **work-life balance**, and **satisfaction scores**. This dashboard provides actionable insights for HR on improving employee retention strategies.
+- Created an **employee exit dashboard** in **Excel**, tracking KPIs like **attrition rate**, **work-life balance**, and **satisfaction**, with insights for HR.
 
 ---
 
 ## 📬 Let's Connect
 
-I am actively seeking **internship** and **job opportunities** in both **Business Analytics** and **Data Analytics**. Feel free to connect if you're looking for someone passionate about transforming data into actionable business solutions!
+I am actively seeking **internship** and **job opportunities** in **Business Analytics** and **Data Analytics**. Feel free to reach out!
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/isha-singh)
 - **Email**: [email@example.com](mailto:email@example.com)
-
