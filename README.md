@@ -1,51 +1,40 @@
-# 👋 I'm Isha Singh - Master's Student in Business Analytics
+# 👋 I'm Isha Singh | Master's in Business Analytics
 
-Currently pursuing a **Master’s in Business Analytics** at **Texas A&M University, Commerce**, I’m passionate about using **data** to help organizations make **data-driven decisions**. I'm focused on learning key tools like **Tableau**, **Power BI**, and **Python** to turn raw data into actionable insights.
-
----
-
-## 🛠️ Key Skills
-
-- **Data Analysis & Visualization**: Creating actionable insights from data with tools like **Tableau** and **Power BI**.
-- **Business Intelligence**: Developing dashboards and reports for data-driven decisions.
-- **Statistical Analysis**: Analyzing data to forecast trends and behaviors.
+💼 Aspiring **Business Analyst** & **Data Analyst** | 📊 Data Visualization Enthusiast | 🧠 Problem Solver | 🎓 Currently Learning and Growing
 
 ---
 
-## 💻 Skills & Technologies
+## 🛠️ Skills
 
-- **Tools**: **Tableau**, **Power BI**, **Excel**, **Python**, **R**
-- **Techniques**: **EDA**, **Predictive Modeling**, **Data Cleaning**
+### **Data Analysis & Visualization**  
+Proficient in **Tableau**, **Power BI**, **Excel**, **Python**, and **R**.
+
+### **Business Intelligence**  
+Expert in designing interactive dashboards and KPIs to support decision-making.
+
+### **Statistical Analysis**  
+Experience in applying statistical methods for data interpretation and predictions.
+
+### **Soft Skills**  
+- Strong **Communication**: Ability to convey complex data insights in a simple, clear manner.  
+- **Problem Solving**: Critical thinking to identify root causes and solutions.  
+- **Teamwork**: Collaborating effectively with cross-functional teams.  
+- **Adaptability**: Quick learner, embracing new tools and techniques to tackle challenges.
 
 ---
 
-## 🧠 Soft Skills
+## 📈 Projects
 
-- **Communication**: Presenting complex data insights in a simple manner.
-- **Problem-Solving**: Uncovering trends and providing data-driven solutions.
-- **Teamwork & Time Management**: Efficient collaboration and managing deadlines.
-
----
-
-## 📊 Key Projects
-
-### 📊 **Tableau Sales Dashboard**  
-- Developed a **sales dashboard** in Tableau with KPIs such as **total sales**, **quantity**, and **profit** to track trends and compare year-on-year performance.
-
-### 📊 **SQL EDA & Reporting**  
-- Performed **EDA** and generated **customer** and **product reports** using SQL, later visualizing them in **Power BI** for enhanced insights.
-
-### 📊 **Churn Prediction with Python**  
-- Used **Python** for churn prediction, including **EDA**, **data visualization**, and building a **predictive model**.
-
-### 📊 **Employee Exit Analysis Dashboard**  
-- Created an **employee exit dashboard** in **Excel**, tracking KPIs like **attrition rate**, **work-life balance**, and **satisfaction**, with insights for HR.
+- **Tableau Sales Dashboard**: Developed a dashboard to track key sales metrics and trends over time.
+- **SQL EDA & Reporting**: Conducted in-depth exploratory data analysis and created insightful customer and product reports.
+- **Churn Prediction with Python**: Built a churn prediction model using Python, focused on customer retention strategies.
+- **Employee Exit Analysis Dashboard**: Analyzed HR data to uncover patterns affecting employee retention and attrition.
 
 ---
 
 ## 📬 Let's Connect
 
-I am actively seeking **internship** and **job opportunities** in **Business Analytics** and **Data Analytics**. Feel free to reach out!
+I am currently exploring **internship** and **job opportunities** in **Business Analytics** and **Data Analytics**. Let's connect and discuss potential collaborations!
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/isha-singh)
+- **LinkedIn**: [linkedin.com/in/isha-singh](https://www.linkedin.com/in/isha-singh)
 - **Email**: [email@example.com](mailto:email@example.com)
