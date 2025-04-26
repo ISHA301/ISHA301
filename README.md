@@ -57,5 +57,5 @@ I’m actively seeking internships and job opportunities in analytics.
 Feel free to connect with me!
 
 📧 ishasingh@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/isha-singh/)  
+🔗 [LinkedIn](www.linkedin.com/in/ishasingh-ak)  
 📁 [My Portfolio Projects](https://github.com/ISHA301)
