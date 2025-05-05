@@ -56,6 +56,6 @@ Performed EDA, visualizations, and built a predictive churn model using Python.
 I’m actively seeking internships and job opportunities in analytics.  
 Feel free to connect with me!
 
-📧 ishasingh@email.com  
+📧 aakshisingh3011@gmail.com  
 🔗 www.linkedin.com/in/ishasingh-ak
 📁 [My Portfolio Projects](https://github.com/ISHA301)
