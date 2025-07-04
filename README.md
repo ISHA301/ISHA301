@@ -23,13 +23,14 @@ Currently building projects using Tableau, Power BI, SQL, and Python.
 ### 💼 Key Skills
 - Data Analysis & Visualization  
 - Business Intelligence Reporting  
-- Statistical Analysis  
+- Statistical Analysis
+- Business Process Documentation 
 
 ### 🧰 Tools & Technologies
-- **BI Tools**: Tableau, Power BI  
-- **Programming**: Python (Pandas, Matplotlib, Seaborn)  
+- **Analysis and Tools**: Tableau, Power BI, Jira, Lucidchart  
+- **Programming**: Python (Pandas, Matplotlib, Seaborn), R 
 - **Databases**: SQL, SSIS, MySQL  
-- **Others**: Excel, Git, Jupyter Notebook  
+- **Others**: Excel(Advanced), Git, Jupyter Notebook  
 
 ### 💡 Soft Skills
 - Critical Thinking • Communication • Teamwork • Time Management
