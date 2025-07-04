@@ -49,7 +49,7 @@ Built an interactive dashboard tracking KPIs like sales, quantity, and profit wi
 Generated EDA and advanced SQL queries, then created customer and product dashboards in Power BI.
 
 ### 🔍 [Churn Prediction Model (Python)] (https://github.com/ISHA301/-Customer-Churn-Prediction)
-Performed EDA, visualizations, and built a predictive churn model using Python.
+Created BRD and FRD, Performed EDA, visualizations, and built a predictive churn model using Python.
 
 ---
 
