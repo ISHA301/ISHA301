@@ -27,7 +27,7 @@ I believe analytics is not about charts — it's about **clarity, decisions, and
 
 ### 🧰 Tools & Tech  
 - **SQL, Python, Excel (Power Query)**
-- **Power BI, Tableau**
+- **Power BI, Tableau, Jira**
 - SSMS · SSIS · GitHub  
 - Jupyter Notebook
 
