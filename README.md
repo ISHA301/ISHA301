@@ -43,12 +43,13 @@ I believe analytics is not about charts — it's about **clarity, decisions, and
 
 | Project | Description | Tools |
 |---|---|---|
-[Sales Analytics & Reporting](https://github.com/ISHA301/Sales-Analytics-and-Reporting) | Customer & product insights, automated dashboards, revenue trends | SQL · Power BI |
-[HR Attrition & Insights Dashboard](https://github.com/ISHA301/Employee-Attrition-Analytics) | Identified risk drivers, 10% turnover reduction opportunity | Excel · Power BI |
-[Customer Segmentation](https://github.com/ISHA301/Customer-Segmentation) | Segmented 15K+ customers, improved campaign precision | SQL · Power BI |
-[Churn Prediction Model](https://github.com/ISHA301/-Customer-Churn-Prediction) | EDA + ML model for churn risk | Python · Pandas · Sklearn |
+[Sales Analytics & Reporting](https://github.com/ISHA301/Sales-Analytics-and-Reporting) | SQL EDA + Power BI dashboards for customer & product insights | SQL · Power BI |
+[Employee Exit Dashboard](https://github.com/ISHA301/Employee-Experience-Exit-Dashboard) | HR attrition & workforce insights | Excel · Visualization |
+[Sales Dashboard](https://github.com/ISHA301/Sales-Dashboard-Tableau-Project) | Sales performance & trend analytics | Tableau |
+[Customer Churn Prediction](https://github.com/ISHA301/-Customer-Churn-Prediction) | Exploratory analysis + churn prediction model | Python · Pandas |## 🚀 Featured Projects
 
-> More projects available in my repos 👇
+
+>> New projects are added regularly — check back soon!
 
 ---
 
