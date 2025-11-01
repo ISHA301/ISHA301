@@ -6,7 +6,7 @@
 ## 👩‍💼 About Me  
 I turn business questions into data-backed decisions.
 
-Currently pursuing my MS in Business Analytics at Texas A&M University–Commerce, I specialize in:
+Currently pursuing my MS in Business Analytics at East Texas A&M University, I specialize in:
 
 ✅ Understanding business requirements  
 ✅ Transforming raw data through analysis & modeling  
