@@ -66,13 +66,6 @@ With 3.8 years of experience across healthcare and pharmaceutical sectors, I spe
 **Solution:** Tableau dashboard showing trends, top performers, and regional breakdown  
 **Impact:** Real-time performance tracking for data-driven sales decisions  
 **Tech:** Tableau
-
-### 🔮 [Customer Churn Prediction Analysis](https://github.com/ISHA301/Customer-Churn-Prediction)
-**Problem:** High customer churn with no visibility into at-risk segments  
-**Solution:** Exploratory analysis identifying churn patterns and predictive modeling  
-**Impact:** Actionable insights for retention campaigns targeting high-risk customers  
-**Tech:** Python, Pandas, Predictive Analytics
-
 ---
 
 ## Professional Experience Highlights
