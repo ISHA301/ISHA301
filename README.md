@@ -73,7 +73,6 @@ With 3.8 years of experience across healthcare and pharmaceutical sectors, I spe
 
 📧 **Email:** ishasingh1018@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/ishasingh-ak](https://www.linkedin.com/in/ishasingh-ak)  
-🌐 **Location:** Dallas-Fort Worth Metroplex, TX
 
 ---
 
