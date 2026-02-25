@@ -2,7 +2,7 @@
 
 **Business & Data Analyst** | Turning Business Problems into Data-Driven Solutions
 
-📍 Dallas-Fort Worth, TX | 🎓 MS Business Analytics (4.0 GPA) | 💼 3.8 Years Experience
+📍 Austin, TX | 🎓 MS Business Analytics (4.0 GPA) | 💼 4 Years Experience
 
 ---
 
