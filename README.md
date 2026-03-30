@@ -10,7 +10,7 @@
 
 I solve business problems through systematic data analysis and automation.
 
-With 3.8 years of experience across healthcare and pharmaceutical sectors, I specialize in translating stakeholder requirements into actionable insights through SQL, Python, and Power BI. My approach: **understand the business question → analyze the data → deliver measurable impact.**
+With 4 years of experience across healthcare and pharmaceutical sectors, I specialize in translating stakeholder requirements into actionable insights through SQL, Python, and Power BI. My approach: **understand the business question → analyze the data → deliver measurable impact.**
 
 **What I Do:**
 - Gather requirements from stakeholders and translate them into technical solutions
